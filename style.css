@@ -1,0 +1,31 @@
+.div-pai {
+    background-color: #2b4b15;
+    width: 600px;
+    height: 560px;
+}
+
+.div-filha {
+    background-color: #ff0000;
+    width: 70%;
+    height: 20%;
+}
+
+.div-filha p {
+    color: #FFFF;
+    background-color: #833b71;
+    font-size: 90px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.div-mae {
+    width: 10%;
+    height: 80vh;
+    background-color: #513bb1;
+}
+
+.div-filho {
+    width: 40vw;
+    height: 20%;
+    background-color: #ff00ff;
+}
